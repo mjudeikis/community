@@ -4,6 +4,7 @@ A non-exhaustive, alphabetized list of organizations that have adopted OpenFeatu
 
 | Company                                           | Logo       | Notes |
 | ------------------------------------------------- | ---------- | :---: |
+| [Cast AI](https://cast.ai)                        |            |       |
 | [codecentric](https://www.codecentric.de/)        |            |       |
 | [Dynatrace](https://www.dynatrace.com)            |            |       |
 | [Ebay](https://www.ebay.com)                      |            |       |
